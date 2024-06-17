@@ -13,6 +13,7 @@ python .\detect_cancer.py
 3. Optimizing Execution Speed:
    
 pip install numpy
+
 python .\optimize.py
 
 
