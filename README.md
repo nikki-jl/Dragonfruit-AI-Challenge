@@ -18,5 +18,7 @@ python .\optimize.py
 
 
 Please reach out if you have any questions!
-
+## Contact
+- Email: nikkiliu@sas.upenn.edu
+- GitHub: [nikki-jl](https://github.com/nikki-jl)
 
