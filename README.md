@@ -2,17 +2,20 @@
 
 - [Usage](#usage)
   
-#1. Generating Simulated Images:
-#python .\generate.py
+1. Generating Simulated Images:
 
-#2. Detecting Cancer in Parasites:
-#python .\detect_cancer.py
+python .\generate.py
 
-#3. Optimizing Execution Speed:
-#pip install numpy
-#python .\optimize.py
+2. Detecting Cancer in Parasites:
+
+python .\detect_cancer.py
+
+3. Optimizing Execution Speed:
+   
+pip install numpy
+python .\optimize.py
 
 
-#Please reach out if you have any questions!
+Please reach out if you have any questions!
 
 
