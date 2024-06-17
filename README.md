@@ -1,6 +1,7 @@
 # Dragonfruit-AI-Software-Engineering-Challenge: Nikki-Liu
 
 - [Usage](#usage)
+  
 #1. Generating Simulated Images:
 #python .\generate.py
 
